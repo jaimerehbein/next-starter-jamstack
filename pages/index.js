@@ -5,7 +5,7 @@ const Home = () => (
   <div>
     <h1>Next.js on the [JAMstack](https://jamstack.org)</h1>
 
-    <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
+    <h3>Jaime Rehbein <a href="https://nextjs.org">Next.js</a>!</h3>
 
     <style jsx>{`
       :global(html,body) {
